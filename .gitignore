@@ -1,0 +1,47 @@
+# 
+# .gitignore
+# 
+
+# Emacs temporary files
+*~
+\#*#
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.bz2
+*.deb
+*.dmg
+*.gz
+*.iso
+*.jar
+*.lzh
+*.rar
+*.tar
+*.tbz2
+*.tgz
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS or WindowManager generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V*
+.Trashes
+Icon?
+ehthumb.db
+Thumbs.db
+.directory
